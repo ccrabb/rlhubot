@@ -18,7 +18,7 @@ module.exports = (robot) ->
 			"Genki Grill"
 		];
 		today  = new Date();
-		alarmTime = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 17, 45, 0, 0);
+		alarmTime = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 11, 45, 0, 0);
 		
 		sendMessage = (message) ->
 			msg.send message
