@@ -28,6 +28,8 @@
     "hubot-hipchat": "^2.7.5",
     "hubot-plusplus": "^1.1.3",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
+    "hubot-slack": "^3.3.0",
+    "hubot-soundcloud": "0.0.1",
     "scraper": "0.0.9"
   },
   "engines": {
