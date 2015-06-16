@@ -1,1 +1,1 @@
-app: bin/hubot -a hipchat
+app: bin/hubot -a slack
